@@ -10,4 +10,6 @@ Exploratory Project under Prof. Atul Kumar
 
 ![purification](https://github.com/user-attachments/assets/bfa36d27-0fb1-472c-8c01-2d9c9588c4b0)
 
+Submitted this report in IEEE Global Communication Conference 2025
+
 -Mayank Yadav
