@@ -1,6 +1,7 @@
 # p-IQSC-protocol
 purified Integrated Quantum Sensing and Communication using DEJMPS protocol
--Exploratory Project under Prof. Atul Kumar
+
+Exploratory Project under Prof. Atul Kumar
 
 • Implemented a novel P-IQSC architecture that integrates DEJMPS based entanglement purification.
 
